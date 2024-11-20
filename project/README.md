@@ -1,0 +1,1 @@
+This is a PySpark ETL project that extracts data from CSV and MySQL, transforms it, validates it, and loads it into a data lake.
